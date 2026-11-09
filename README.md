@@ -7,6 +7,12 @@ This project documents an Active Directory home lab built for a simulated compan
 
 ## Environments and Technologies Used
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50" alt="Windows" />
+  <img src="https://cdn.simpleicons.org/vmware" width="50" height="50" alt="VMware" />
+
+</p>
+
 - VMware virtual machines
 - Windows Server 2022
 - Active Directory Domain Services (AD DS)
